@@ -17,7 +17,6 @@ import java.io.IOException;
 * Какие классы позволяют совершать чтение/запись побайтово, а какие посимвольно?
 * Привести прикладные примеры.
 */
-
 public class Main {
     public static void main(String[] args) {
         File file = new File("test_file.txt");
