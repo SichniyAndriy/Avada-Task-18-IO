@@ -1,4 +1,4 @@
-package edu.avada.course.question_03;
+package edu.avada.course.question_03._01;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
